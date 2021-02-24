@@ -8,9 +8,9 @@
   <version>2.2.0.BUILD-SNAPSHOT</version>
 
   <parent>
-    <groupId>org.springframework.boot</groupId>
+<!--     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.2.4.RELEASE</version>
+    <version>2.2.4.RELEASE</version> -->
   </parent>
   <name>petclinic</name>
 
